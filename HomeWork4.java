@@ -10,6 +10,8 @@ public class HomeWork4  {
     private static final char EMPTY_DOT = '*';
     private static final char X_DOT = 'X';
     private static final char O_DOT = 'O';
+    
+    //Jnlrdjsbgjkl fbglfdlj fjbf
 
     public static void main(String[] args) throws InterruptedException {
 
